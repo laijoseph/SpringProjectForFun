@@ -1,2 +1,2 @@
 # SpringProjectForFun
-Tiny Project to demonstrate of Spring Webflux, JWT Auth
+Tiny Project to demonstrate Spring Webflux, JWT Auth

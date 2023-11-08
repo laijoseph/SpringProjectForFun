@@ -1,10 +1,10 @@
-package service;
+package webflux.demo.project.service;
 
 import java.util.Map;
 
 import org.springframework.stereotype.Service;
 
-import models.TrieNode;
+import webflux.demo.project.models.TrieNode;
 
 /**
  * Demo service which solves Leetcode Problem 211. Design Add and Search Words

@@ -1,4 +1,4 @@
-package models;
+package webflux.demo.project.models;
 
 import java.util.HashMap;
 import java.util.Map;
